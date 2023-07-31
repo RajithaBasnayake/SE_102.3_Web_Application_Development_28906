@@ -1,0 +1,39 @@
+.box{
+    font-size: 20px;
+    padding: 0.5%;
+    color: white;
+  }
+  
+  input{
+    font-size: 20px;
+  }
+  h2{
+    background-color: orange;
+    padding: 3px;
+    border-radius: 10px;
+  }
+  
+  .signin{
+    text-align: center;
+    padding: 3px;
+    width:500px;
+    margin: auto auto auto auto;
+    background-color: #3d007d;
+    border-radius: 10px;
+  }
+  
+  button {
+    background-color: #0dff00;
+    width: 100%;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px 0 10px 0;
+  }
+
+  button2 {
+    background-color: hsl(0, 100%, 50%);
+    width: 100%;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px 0 10px 0;
+  } 
